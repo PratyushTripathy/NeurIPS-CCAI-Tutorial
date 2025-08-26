@@ -1,0 +1,13 @@
+numpy==2.0.2
+pandas==2.2.2
+matplotlib==3.10.0
+seaborn==0.13.2
+scikit-learn==1.6.1
+rasterio==1.4.3
+pyrsgis==0.4.1
+opencv-python==4.12.0.88
+leafmap==0.51.0
+localtileserver==0.10.6
+gdown==5.2.0
+requests==2.32.4
+watermark==2.4.3
